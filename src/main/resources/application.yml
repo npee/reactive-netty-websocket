@@ -1,6 +1,0 @@
-server:
-  port: 8889
-
-logging:
-  level:
-    io.npee.reactor_netty: DEBUG
